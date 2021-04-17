@@ -5,7 +5,7 @@ This project enables to read data from the polyphase meter LK13BE by Logarex
 polyphase-meter allows anybody to read data from a polyphase meter LK13BE built by Logarex.
 
 # What is needed to start using polyphase-meter?
-You will need PHP 7.4, Composer and a clone from this repository, and of of course an [IR reader](https://wiki.volkszaehler.org/hardware/controllers/ir-schreib-lesekopf-usb-ausgang).
+You will need PHP 7.4, Composer and a clone from this repository, and of course an [IR reader](https://wiki.volkszaehler.org/hardware/controllers/ir-schreib-lesekopf-usb-ausgang).
 
 # How to run polyphase-meter?
 0. Connect the IR reader to your LK13BE and the USB plug to your computing device. Adding `udev` rules is advisable, but out of scope of this readme.
