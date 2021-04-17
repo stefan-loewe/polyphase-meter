@@ -1,0 +1,30 @@
+{
+	"name" : "loewe.ws/polyphase-meter",
+	"keywords" : [
+		"Logarex",
+		"Smart",
+		"Metering",
+		"LK11BE",
+		"LK13BE",
+		"polyphase",
+		"meter"
+
+	],
+	"homepage" : "https://stefan.loewe.ws",
+	"license" : "Apache 2.0",
+	"authors" : [{
+			"name" : "Stefan Loewe",
+			"email" : "stefan@loewe.ws",
+			"homepage" : "http://stefan.loewe.ws"
+		}
+	],
+	"autoload" : {
+		"psr-4" : {
+			"ws\\loewe\\polyphase_meter\\" : "src/"
+		}
+	},
+	"require" : {
+		"php" : ">=7.4",
+		"monolog/monolog" : "^2.2"
+	}
+}
