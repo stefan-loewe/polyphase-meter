@@ -49,10 +49,11 @@ raw data: /LOG5LK13BE803049
 /LOG5LK13BE803049
 ```
 
-# Thanks
-- [Der Karl](http://automaten-karl.de/blog/?p=914) where I got a few insights. However, that solution only seems to work for the polyphase meter LK13BD by Logarex.
-- [KorbinianP](https://knx-user-forum.de/forum/%C3%B6ffentlicher-bereich/geb%C3%A4udetechnik-ohne-knx-eib/42090-digitale-stromz%C3%A4hler-auslesen-logarex-lk13b) on which my solution is based, [by migrating his shell script](https://gist.github.com/KorbinianP/62bfa2b2140af78b977c6476bc6859ee) to PHP.
-
 # Further information
 - [Manual for the LK13BE](https://www.kommenergie.de/_Resources/Persistent/d9485ccfb652107fdab8a0f8b6bbe6fea8393547/Bedienungsanleitung%20Logarex%20Z%C3%A4hler.pdf)
 - [Technical documentation of LK13BE](https://www.stadtwerke-burgdorf-netz.de/_Resources/Persistent/9450d40cdc3d62d8de38a3e4b06ad5d6805c87b4/Gebrauchsanleitung_LK13BE8030x9.pdf)
+- [Das volkszaehler Projekt](https://volkszaehler.org/) und dessen [Wiki](https://wiki.volkszaehler.org/)
+
+# Thanks
+- [Der Karl](http://automaten-karl.de/blog/?p=914) where I got a few insights. However, that solution only seems to work for the polyphase meter LK13BD by Logarex.
+- [KorbinianP](https://knx-user-forum.de/forum/%C3%B6ffentlicher-bereich/geb%C3%A4udetechnik-ohne-knx-eib/42090-digitale-stromz%C3%A4hler-auslesen-logarex-lk13b) on which my solution is based, [by migrating his shell script](https://gist.github.com/KorbinianP/62bfa2b2140af78b977c6476bc6859ee) to PHP.
