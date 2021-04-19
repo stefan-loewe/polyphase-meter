@@ -53,7 +53,7 @@ raw data: /LOG5LK13BE803049
 - [Manual for the LK13BE](https://www.kommenergie.de/_Resources/Persistent/d9485ccfb652107fdab8a0f8b6bbe6fea8393547/Bedienungsanleitung%20Logarex%20Z%C3%A4hler.pdf)
 - [Technical documentation of LK13BE](https://www.stadtwerke-burgdorf-netz.de/_Resources/Persistent/9450d40cdc3d62d8de38a3e4b06ad5d6805c87b4/Gebrauchsanleitung_LK13BE8030x9.pdf)
 - [Das volkszaehler Projekt](https://volkszaehler.org/) und dessen [Wiki](https://wiki.volkszaehler.org/)
-- My [blog post](https://www.photovoltaikforum.com/wissen/entry/52-auslesen-von-stromverbrauch-stromproduktion-strombezug-von-stromz%C3%A4hler-logarex-l/) in the [photovoltaikforum](https://www.photovoltaikforum.com).
+- My [blog post](https://www.photovoltaikforum.com/wissen/entry/52-auslesen-von-stromverbrauch-stromproduktion-strombezug-von-stromz%C3%A4hler-logarex-l/) in the [photovoltaikforum](https://www.photovoltaikforum.com)
 
 # Thanks
 - [Der Karl](http://automaten-karl.de/blog/?p=914) where I got a few insights. However, that solution only seems to work for the polyphase meter LK13BD by Logarex.
